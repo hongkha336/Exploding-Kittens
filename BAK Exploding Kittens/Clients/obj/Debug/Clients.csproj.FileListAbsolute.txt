@@ -1,0 +1,6 @@
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Clients\bin\Debug\Clients.exe.config
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Clients\bin\Debug\Clients.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Clients\bin\Debug\Clients.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Clients\obj\Debug\Clients.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Clients\obj\Debug\Clients.pdb

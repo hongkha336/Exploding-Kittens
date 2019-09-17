@@ -1,0 +1,8 @@
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\SEVER FORM\bin\Debug\SEVER FORM.exe.config
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\SEVER FORM\bin\Debug\SEVER FORM.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\SEVER FORM\bin\Debug\SEVER FORM.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\SEVER FORM\obj\Debug\SEVER_FORM.Form1.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\SEVER FORM\obj\Debug\SEVER_FORM.Properties.Resources.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\SEVER FORM\obj\Debug\SEVER FORM.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\SEVER FORM\obj\Debug\SEVER FORM.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\SEVER FORM\obj\Debug\SEVER FORM.pdb

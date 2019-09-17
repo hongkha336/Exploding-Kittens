@@ -1,0 +1,6 @@
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Sever\bin\Debug\Sever.exe.config
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Sever\bin\Debug\Sever.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Sever\bin\Debug\Sever.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Sever\obj\Debug\Sever.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Sever\obj\Debug\Sever.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Sever\obj\Debug\Sever.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\DemoChat\bin\Debug\DemoChat.exe.config
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\DemoChat\bin\Debug\DemoChat.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\DemoChat\bin\Debug\DemoChat.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\DemoChat\obj\Debug\DemoChat.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\DemoChat\obj\Debug\DemoChat.Form1.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\DemoChat\obj\Debug\DemoChat.Properties.Resources.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\DemoChat\obj\Debug\DemoChat.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\DemoChat\obj\Debug\DemoChat.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\DemoChat\obj\Debug\DemoChat.pdb

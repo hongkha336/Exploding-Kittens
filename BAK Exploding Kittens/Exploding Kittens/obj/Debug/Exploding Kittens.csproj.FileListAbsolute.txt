@@ -1,0 +1,10 @@
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Exploding Kittens\bin\Debug\Exploding Kittens.exe.config
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Exploding Kittens\bin\Debug\Exploding Kittens.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Exploding Kittens\bin\Debug\Exploding Kittens.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Exploding Kittens\obj\Debug\Exploding Kittens.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Exploding Kittens\obj\Debug\Exploding_Kittens.Properties.Resources.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Exploding Kittens\obj\Debug\Exploding Kittens.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Exploding Kittens\obj\Debug\Exploding Kittens.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Exploding Kittens\obj\Debug\Exploding Kittens.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Exploding Kittens\obj\Debug\Exploding_Kittens.frmStart.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\Exploding Kittens\Exploding Kittens\obj\Debug\Exploding_Kittens.frmMain.resources
